@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KitchenProjectApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="meals_and_calories">Meals and calories</string>
+    <string name="information_about_dishes_from_different_countries">Information about dishes from different countries</string>
+    <string name="get_started">Get started</string>
+    <string name="category">Category</string>
+    <string name="popular">Popular</string>
+    <string name="all_categories">All Categories</string>
+    <string name="fruid_salat">Fruid Salat</string>
+    <string name="_230_g">230 g</string>
+    <string name="_125_kcal">125 kcal</string>
+    <string name="food">Food</string>
+    <string name="chicken_salad">Chicken salad</string>
+    <string name="calories">Calories</string>
+    <string name="_280_g">280 g</string>
+    <string name="calories_1">CALORIES</string>
+    <string name="_65_g">65 g</string>
+    <string name="protein">PROTEIN</string>
+    <string name="fat">FAT</string>
+    <string name="_58_g">58 g</string>
+    <string name="asparagus_with_meat">Asparagus with meat</string>
+    <string name="carbs">CARBS</string>
+
+</resources>

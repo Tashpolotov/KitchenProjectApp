@@ -1,0 +1,26 @@
+<resources>
+    <string name="breakfast">Una colazione salutare con omelette, ricca di proteine e vitamine.</string>
+    <string name="breakfastinfo">Inizia la tua giornata con una colazione nutritiva a base di omelette. Pieno di uova e verdure fresche, è una scelta deliziosa e salutare.</string>
+    <string name="pizza">La pizza è un classico piatto italiano noto per la deliziosa combinazione di una sottile crosta, salsa di pomodoro, formaggio e vari condimenti. È un cibo amato e iconico in tutto il mondo.</string>
+    <string name="pizzainfo">Le condizioni su una pizza possono variare ampiamente, compresi ingredienti come pepperoni, funghi, cipolle e altro. Spesso è apprezzata appena sfornata ed è una scelta popolare per raduni e pasti informali.</string>
+    <string name="popates">Questo piatto è una classica zuppa russa nota per i suoi sapori ricchi e il colore vibrante.</string>
+    <string name="popatesinfo">Le patate sono un piatto tenero e sostanzioso preparato con patate fresche. Spesso è servito con burro o panna acida ed è un piatto popolare nella cucina russa grazie al suo delizioso sapore e alla semplicità di preparazione.</string>
+    <string name="chicken">La zuppa di pollo è un piatto confortante e sostanzioso preparato con pollo, verdure e spesso pasta o riso. È una scelta popolare per un pasto caldo e appagante.</string>
+    <string name="chikceninfo">La zuppa è nota per il suo sapore saporito e spesso è apprezzata come rimedio lenitivo per il raffreddore o semplicemente come un\'opzione deliziosa e nutriente.</string>
+    <string name="croisants">Questo piatto è una deliziosa combinazione di asparagi e carne.</string>
+    <string name="croisantsinfo">Praesent tristique enim id enim elementum, a dictum food nunc blandit. Aenean ac dignissim neque, nec congue tellus. Donec posuere tortor quis tellus lacinia.</string>
+    <string name="sandwich">Un panino è un piatto inglese popolare preparato inserendo vari ingredienti, come carne, formaggio, verdure e condimenti, tra fette di pane. È un pasto versatile e comodo noto per la vasta gamma di sapori e ripieni.</string>
+    <string name="sandwichinfo">I panini esistono in molte varianti, dai semplici panini con prosciutto e formaggio a creazioni più complesse con sapori unici. Sono un\'opzione rapida e soddisfacente per un pasto o uno spuntino.</string>
+    <string name="name_braekfast">Colazione all\'omelette</string>
+    <string name="name_pizza">Pizza</string>
+    <string name="name_patotes">Patate</string>
+    <string name="name_chicken">Zuppa di pollo</string>
+    <string name="name_croisssants">Croissant</string>
+    <string name="name_sandwich">Panino</string>
+    <string name="name_france">Francia</string>
+    <string name="name_russia">Russia</string>
+    <string name="name_england">Inghilterra</string>
+    <string name="name_india">India</string>
+    <string name="name_italiano">Italiano</string>
+
+</resources>

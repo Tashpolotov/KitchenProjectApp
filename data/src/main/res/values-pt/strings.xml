@@ -1,0 +1,26 @@
+<resources>
+    <string name="breakfast">Um café da manhã saudável com omelete, rico em proteínas e vitaminas.</string>
+    <string name="breakfastinfo">Comece o seu dia com um café da manhã nutritivo com omelete. Cheio de ovos e vegetais frescos, é uma escolha deliciosa e saudável.</string>
+    <string name="pizza">A pizza é um prato clássico italiano conhecido pela deliciosa combinação de uma fina massa, molho de tomate, queijo e diversos ingredientes. É uma comida querida e icônica em todo o mundo.</string>
+    <string name="pizzainfo">Os ingredientes de uma pizza podem variar amplamente, incluindo itens como pepperoni, cogumelos, cebolas e muito mais. Geralmente é apreciada logo após sair do forno e é uma escolha popular para reuniões e refeições casuais.</string>
+    <string name="popates">Este prato é uma clássica sopa russa conhecida por seus sabores ricos e cores vibrantes.</string>
+    <string name="popatesinfo">As batatas são um prato macio e reconfortante feito com batatas frescas. Geralmente é servido com manteiga ou creme azedo e é um prato popular na culinária russa devido ao seu delicioso sabor e simplicidade na preparação.</string>
+    <string name="chicken">A Sopa de Frango é um prato reconfortante e robusto feito com frango, legumes e frequentemente macarrão ou arroz. É uma escolha popular para uma refeição quente e satisfatória.</string>
+    <string name="chikceninfo">A sopa é conhecida pelo seu sabor salgado e frequentemente é apreciada como um remédio calmante para resfriados ou simplesmente como uma opção deliciosa e nutritiva.</string>
+    <string name="croisants">Este prato é uma combinação deliciosa de aspargos e carne.</string>
+    <string name="croisantsinfo">Praesent tristique enim id enim elementum, a dictum food nunc blandit. Aenean ac dignissim neque, nec congue tellus. Donec posuere tortor quis tellus lacinia.</string>
+    <string name="sandwich">Um sanduíche é um prato popular inglês feito ao colocar vários ingredientes, como carne, queijo, vegetais e condimentos, entre fatias de pão. É uma refeição versátil e conveniente conhecida por sua ampla variedade de sabores e recheios.</string>
+    <string name="sandwichinfo">Os sanduíches vêm em muitas variações, desde sanduíches simples de presunto e queijo até criações mais complexas com sabores únicos. Eles são uma opção rápida e satisfatória para uma refeição ou lanche.</string>
+    <string name="name_braekfast">Omelete de Café da Manhã</string>
+    <string name="name_pizza">Pizza</string>
+    <string name="name_patotes">Batatas</string>
+    <string name="name_chicken">Sopa de Frango</string>
+    <string name="name_croisssants">Croissants</string>
+    <string name="name_sandwich">Sanduíche</string>
+    <string name="name_france">França</string>
+    <string name="name_russia">Rússia</string>
+    <string name="name_england">Inglaterra</string>
+    <string name="name_india">Índia</string>
+    <string name="name_italiano">Itália</string>
+
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.MainFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+
+        >
+
+        <TextView
+            android:id="@+id/tv_meals"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/inter"
+            android:textSize="26sp"
+            android:textColor="@color/main_text_color"
+            android:text="@string/meals_and_calories"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="40dp"
+            app:layout_constraintBottom_toTopOf="@id/img_main"
+            />
+
+        <ImageView
+            android:id="@+id/img_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv_meals"
+            android:src="@drawable/main_img"
+            android:layout_marginTop="30dp"
+            app:layout_constraintBottom_toTopOf="@id/tv_information"
+            />
+
+        <TextView
+            android:id="@+id/tv_information"
+            android:layout_width="228dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/img_main"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:text="@string/information_about_dishes_from_different_countries"
+            android:fontFamily="@font/inter"
+            android:textColor="@color/main_text_color"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toTopOf="@id/btn_get_started"
+            android:layout_marginTop="20dp"
+            android:gravity="center"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_get_started"
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="@id/tv_information"
+            app:layout_constraintEnd_toEndOf="@id/tv_information"
+            app:layout_constraintTop_toBottomOf="@id/tv_information"
+            app:cornerRadius="20dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/get_started"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/main_btn_color"
+            app:layout_constraintBottom_toBottomOf="parent"
+            />
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

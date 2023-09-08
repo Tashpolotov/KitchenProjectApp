@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">KitchenProjectApp</string>
+    <string name="hello_blank_fragment">Merhaba boş parça</string>
+    <string name="meals_and_calories">Yemekler ve Kaloriler</string>
+    <string name="information_about_dishes_from_different_countries">Farklı Ülkelerin Yemekleri Hakkında Bilgi</string>
+    <string name="get_started">Başlamak için</string>
+    <string name="category">Kategori</string>
+    <string name="popular">Popüler</string>
+    <string name="all_categories">Tüm Kategoriler</string>
+    <string name="fruid_salat">Meyve Salatası</string>
+    <string name="_230_g">230 g</string>
+    <string name="_125_kcal">125 kcal</string>
+    <string name="food">Yiyecek</string>
+    <string name="chicken_salad">Tavuk salatası</string>
+    <string name="calories">Kaloriler</string>
+    <string name="_280_g">280 g</string>
+    <string name="calories_1">KALORİLER</string>
+    <string name="_65_g">65 g</string>
+    <string name="protein">PROTEİN</string>
+    <string name="fat">YAĞ</string>
+    <string name="_58_g">58 g</string>
+    <string name="asparagus_with_meat">Etli kuşkonmaz</string>
+    <string name="carbs">KARBONHİDRATLAR</string>
+</resources>

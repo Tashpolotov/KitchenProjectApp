@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">KitchenProjectApp</string>
+    <string name="hello_blank_fragment">Салам бош фрагмент</string>
+    <string name="meals_and_calories">Тамак-аш жана калория</string>
+    <string name="information_about_dishes_from_different_countries">Ар кайсы өлкөлөрдөн келген тамактар ​​тууралуу маалымат</string>
+    <string name="get_started">Баштоо</string>
+    <string name="category">Категория</string>
+    <string name="popular">Популярдуу</string>
+    <string name="all_categories">Бардык категориялар</string>
+    <string name="fruid_salat">Жемиштүү Салат</string>
+    <string name="_230_g">230 г</string>
+    <string name="_125_kcal">125 ккал</string>
+    <string name="food">Тамак-аш</string>
+    <string name="chicken_salad">Тоок салаты</string>
+    <string name="calories">Калориялар</string>
+    <string name="_280_g">280 г</string>
+    <string name="calories_1">КАЛОРИЯЛАР</string>
+    <string name="_65_g">65 г</string>
+    <string name="protein">ПРОТЕИН</string>
+    <string name="fat">FAT</string>
+    <string name="_58_g">58 г</string>
+    <string name="asparagus_with_meat">Эт менен спаржа</string>
+    <string name="carbs">КӨМГҮРҮҮС</string>
+</resources>

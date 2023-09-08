@@ -1,0 +1,26 @@
+<resources>
+    <string name="breakfast">Yüksek protein ve vitamin açısından zengin sağlıklı bir kahvaltı.</string>
+    <string name="breakfastinfo">Güne besleyici bir omlet kahvaltısı ile başlayın. Yumurta ve taze sebzelerle dolu, lezzetli ve sağlıklı bir tercihtir.</string>
+    <string name="pizza">Pizza, ince hamur, domates sosu, peynir ve çeşitli malzemelerin lezzetli bir kombinasyonu ile tanınan klasik bir İtalyan yemeğidir. Dünya genelinde sevilen ve sembolleşmiş bir yiyecektir.</string>
+    <string name="pizzainfo">Pizzanın üzerindeki malzemeler geniş bir yelpazede değişebilir; bunlar arasında pepperoni, mantar, soğan ve daha fazlası bulunur. Genellikle fırından çıkar çıkmaz taze olarak yenir ve toplantılar ve rahat yemekler için popüler bir tercihtir.</string>
+    <string name="popates">Bu yemek, zengin lezzetleri ve canlı rengi ile bilinen klasik bir Rus çorbasıdır.</string>
+    <string name="popatesinfo">Patates, taze patates yumrularından yapılan, yumuşak ve doyurucu bir yemektir. Genellikle tereyağı veya ekşi krema ile servis edilir ve lezzetli tadı ve basit hazırlanışı nedeniyle Rus mutfağında popüler bir yemektir.</string>
+    <string name="chicken">Tavuk Çorbası, tavuk, sebzeler ve genellikle erişte veya pirinç ile yapılan, sıcak ve doyurucu bir yemek tercihidir.</string>
+    <string name="chikceninfo">Çorba, tuzlu tadı ile bilinir ve sıklıkla soğuk algınlığı için hafifletici bir çözüm olarak veya sadece lezzetli ve besleyici bir seçenek olarak tadını çıkarılır.</string>
+    <string name="croisants">Bu yemek, kuşkonmaz ve etin lezzetli bir kombinasyonudur.</string>
+    <string name="croisantsinfo">Praesent tristique enim id enim elementum, a dictum food nunc blandit. Aenean ac dignissim neque, nec congue tellus. Donec posuere tortor quis tellus lacinia.</string>
+    <string name="sandwich">Bir sandviç, et, peynir, sebzeler ve sos gibi çeşitli malzemelerin ekmeğin arasına konularak yapılan popüler bir İngiliz yemeğidir. Geniş bir lezzet yelpazesi ve doldurularıyla tanınan, çok yönlü ve pratik bir yemektir.</string>
+    <string name="sandwichinfo">Sandviçler, basit jambon ve peynirli sandviçlerden benzersiz lezzetlerle daha karmaşık oluşturmaları dahil birçok varyasyonda gelir. Bir yemek veya atıştırmalık için hızlı ve doyurucu bir seçenektir.</string>
+    <string name="name_braekfast">Omlet Kahvaltısı</string>
+    <string name="name_pizza">Pizza</string>
+    <string name="name_patotes">Patates</string>
+    <string name="name_chicken">Tavuk Çorbası</string>
+    <string name="name_croisssants">Kruvasan</string>
+    <string name="name_sandwich">Sandviç</string>
+    <string name="name_france">Fransa</string>
+    <string name="name_russia">Rusya</string>
+    <string name="name_england">İngiltere</string>
+    <string name="name_india">Hindistan</string>
+    <string name="name_italiano">İtalya</string>
+
+</resources>

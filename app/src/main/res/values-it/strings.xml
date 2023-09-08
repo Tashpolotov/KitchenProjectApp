@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">KitchenProjectApp</string>
+    <string name="hello_blank_fragment">Ciao frammento vuoto</string>
+    <string name="meals_and_calories">Pasti e calorie</string>
+    <string name="information_about_dishes_from_different_countries">Informazioni sui piatti di diversi paesi</string>
+    <string name="get_started">Iniziare</string>
+    <string name="category">Categoria</string>
+    <string name="popular">Popolare</string>
+    <string name="all_categories">Tutte le categorie</string>
+    <string name="fruid_salat">Salata Fruttata</string>
+    <string name="_230_g">230 g</string>
+    <string name="_125_kcal">125 kcal</string>
+    <string name="food">Cibo</string>
+    <string name="chicken_salad">Insalata di pollo</string>
+    <string name="calories">Calorie</string>
+    <string name="_280_g">280 g</string>
+    <string name="calories_1">CALORIE</string>
+    <string name="_65_g">65 g</string>
+    <string name="protein">PROTEINA</string>
+    <string name="fat">GRASSO</string>
+    <string name="_58_g">58 g</string>
+    <string name="asparagus_with_meat">Asparagi con carne</string>
+    <string name="carbs">CARBOIDRATI</string>
+</resources>

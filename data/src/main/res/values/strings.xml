@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="breakfast">A healthy breakfast with omelette, rich in protein and vitamins.</string>
+    <string name="breakfastinfo">Start your day with a nutritious omelette breakfast. Packed with eggs and fresh vegetables, it\'s a delicious and healthy choice.</string>
+    <string name="pizza">Pizza is a classic Italian dish known for its delicious combination of a thin crust, tomato sauce, cheese, and various toppings. It\'s a beloved and iconic food worldwide.</string>
+    <string name="pizzainfo">The toppings on a pizza can vary widely, including ingredients like pepperoni, mushrooms, onions, and more. It\'s often enjoyed fresh from the oven and is a popular choice for gatherings and casual meals.</string>
+    <string name="popates">This dish is a classic Russian soup known for its rich flavors and vibrant color.</string>
+    <string name="popatesinfo">Potatoes are a tender and hearty dish made from fresh potato tubers. It\'s often served with butter or sour cream and is a popular dish in Russian cuisine due to its delicious taste and simplicity of preparation.</string>
+    <string name="chicken">Chicken Soup is a comforting and hearty dish made with chicken, vegetables, and often noodles or rice. It\'s a popular choice for a warm and satisfying meal.</string>
+    <string name="chikceninfo">The soup is known for its savory flavor and is often enjoyed as a soothing remedy for colds or simply as a delicious and nourishing option.</string>
+    <string name="croisants">This dish is a delightful combination of asparagus and meat.</string>
+    <string name="croisantsinfo">Praesent tristique enim id enim elementum, a dictum food nunc blandit. Aenean ac dignissim neque, nec congue tellus. Donec posuere tortor quis tellus lacinia.</string>
+    <string name="sandwich">A sandwich is a popular English dish made by placing various ingredients, such as meat, cheese, vegetables, and condiments, between slices of bread. It\'s a versatile and convenient meal known for its wide range of flavors and fillings.</string>
+    <string name="sandwichinfo">Sandwiches come in many variations, from simple ham and cheese sandwiches to more complex creations with unique flavors. They are a quick and satisfying option for a meal or snack.</string>
+    <string name="name_braekfast">Omelette Breakfast</string>
+    <string name="name_pizza">Pizza</string>
+    <string name="name_patotes">Potatoes</string>
+    <string name="name_chicken">Chicken Soup</string>
+    <string name="name_croisssants">Croissants</string>
+    <string name="name_sandwich">Sandwich</string>
+    <string name="name_france">France</string>
+    <string name="name_russia">Russia</string>
+    <string name="name_england">England</string>
+    <string name="name_india">India</string>
+    <string name="name_italiano">Italiano</string>
+
+
+</resources>
